@@ -1,0 +1,14 @@
+LIBRERIAS MÁS POPULARES PARA INTERFACES GRÁFICAS CON PYTHON
+
+-PyGame
+-TKinder -> hay mucha documentación
+-Toga -> más recomendable, menos documentación
+
+FORMA DE INSTALACIÓN
+
+python -m venv <Nombre del entorno>
+env\Scripts\activate (windows)
+
+pip install <Librería>
+
+En este caso hemos instalado pygame como entorno virtual. Así la versión con la que hemos creado el proyecto siempre será la misma si creamos el entorno virtual, sino puede dar problemas de incompatibilidad si lo instalamos directamente.
